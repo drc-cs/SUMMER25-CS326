@@ -141,7 +141,7 @@ I'm here to help you! Please try contacting me through email first (josh@northwe
 
 <div class = "col-wrapper">
   <div class="c1 col-centered">
-  <div style="font-size: 0.8em; left: 0; width: 60%; position: absolute;">
+  <div style="font-size: 0.8em; left: 0; width: 40%; position: absolute;">
     
   ## L.01 | Q.01
 
@@ -149,7 +149,10 @@ I'm here to help you! Please try contacting me through email first (josh@northwe
 
   </div>
   </div>
+
+  <div class="c2 col-centered" style = "width: 80%;">
   <iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L.01 | Q.01" width="100%" height="100%" style="border-radius: 10px;"></iframe>
+  </div>
 </div>
 
 </div>
@@ -247,7 +250,7 @@ If you have any issues with using this git-based system, please reach out.
 
 ## H.01 | Opening Homework
 
-Open the <span class="code-span">homeworks/</span> folder in VSCode. You should see a folder called <span class="code-span">H.01/</span>. Open the folder and you will see three files: 
+Open the <span class="code-span">homeworks/</span> folder in VSCode. You should see a folder called <span class="code-span">H1/</span>. Open the folder and you will see three files: 
 
 - <span class="code-span">hello_world.py</span>: This file contains placeholders for the methods you will write.
 
@@ -280,7 +283,7 @@ python account.py --create-account
 Once you have a username and password, you can submit your completed homework. You should receive your score or feedback within a few seconds, but this may take longer as the homeworks get more involved.
 
 ```bash
-python submit.py --homework H01/hello_world.py --username your_username --password your_password 
+python submit.py --homework H1/hello_world.py --username your_username --password your_password 
 ```
 
 You can save your username and password as environment variables so you don't have to enter them every time (or expose them in your notebooks)!
@@ -745,7 +748,7 @@ df = pd.read_sql(query, conn)
 
   </div>
   </div>
-  <div class="c2 col-centered" style = "bottom: 0; right: 0; width: 100%; padding-top: 5%">
+  <div class="c2 col-centered" style = "bottom: 0; right: 0; width: 80%; padding-top: 5%">
   <iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L.01 | Q.04" width="100%" height="100%"></iframe>
   </div>
 </div>
@@ -935,6 +938,12 @@ Handling outliers should be done on a case-by-case basis. Don't throw away data 
 - Data cleaning is not a one-size-fits-all process, and often requires domain expertise.
 
 <!--s-->
+
+<div class="header-slide"> 
+
+# EDA
+
+</div>
 
 <!--s-->
 
