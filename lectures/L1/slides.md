@@ -13,7 +13,7 @@ revealOptions:
   <div style="font-size: 0.7em; left: 0; width: 60%; position: absolute;">
 
   # Introduction to Data Science Pipelines
-  ## L.01
+  ## L1
 
   </div>
   </div>
@@ -119,7 +119,7 @@ There are two exams in this class. They will cover the theoretical and practical
 
 ## Accommodations
 
-Any student requesting accommodations related to a disability or other condition is required to register with AccessibleNU and provide professors with an accommodation notification from AccessibleNU, preferably within the first two weeks of class. 
+Any student requesting accommodations related to a disability or other condition is required to register with AccessibleNU and provide professors with an accommodation notification from AccessibleNU, preferably within the first two days of class.
 
 All information will remain confidential.
 
@@ -143,7 +143,7 @@ I'm here to help you! Please try contacting me through email first (josh@northwe
   <div class="c1 col-centered">
   <div style="font-size: 0.8em; left: 0; width: 40%; position: absolute;">
     
-  ## L.01 | Q.01
+  ## L1 | Q1
 
   What are you most looking forward to learning in CS 326?
 
@@ -151,7 +151,7 @@ I'm here to help you! Please try contacting me through email first (josh@northwe
   </div>
 
   <div class="c2 col-centered" style = "width: 80%;">
-  <iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L.01 | Q.01" width="100%" height="100%" style="border-radius: 10px;"></iframe>
+  <iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L1 | Q1" width="100%" height="100%" style="border-radius: 10px;"></iframe>
   </div>
 </div>
 
@@ -162,7 +162,7 @@ I'm here to help you! Please try contacting me through email first (josh@northwe
 <div class="header-slide">
 
 # Homework Assignment
-## H.01 "Hello World!"
+## H1 "Hello World!"
 
 Due: 06.23.2025
 
@@ -170,7 +170,7 @@ Due: 06.23.2025
 
 <!--s-->
 
-## H.01 | Installing Conda
+## H1 | Installing Conda
 
 We will be using Python for this course. Conda is a package manager that will help us install Python and other packages. 
 
@@ -178,7 +178,7 @@ Don't have <span class="code-span">conda</span> installed? [[click-here]](https:
 
 <!--s-->
 
-## H.01 | Cloning Repo & Installing Environment
+## H1 | Cloning Repo & Installing Environment
 
 We will be using a public GitHub repository for this course. Enter the following commands in your terminal to clone the repository and install the class environment.
 
@@ -199,7 +199,7 @@ Don't have <span class="code-span">git</span> installed? [[click-here]](https://
 
 <!--s-->
 
-## H.01 | VSCode
+## H1 | VSCode
 
 All demonstrations will be in VSCode, which is a popular IDE. You're welcome to use any IDE you want, but I will be best equipped to help you if you use VSCode.
 
@@ -218,7 +218,7 @@ Add the <span class="code-span">code</span> command to your PATH so you can open
 
 <!--s-->
 
-## H.01 | Opening Repo in VSCode
+## H1 | Opening Repo in VSCode
 
 Restart your terminal and open the cloned repository in VSCode using the following command:
 
@@ -234,7 +234,7 @@ You should see the following folders:
 
 <!--s-->
 
-## H.01 | Pulling
+## H1 | Pulling
 
 Before you start working on any homework, make sure you have the latest version of the repository.
 
@@ -248,7 +248,7 @@ If you have any issues with using this git-based system, please reach out.
 
 <!--s-->
 
-## H.01 | Opening Homework
+## H1 | Opening Homework
 
 Open the <span class="code-span">homeworks/</span> folder in VSCode. You should see a folder called <span class="code-span">H1/</span>. Open the folder and you will see three files: 
 
@@ -270,7 +270,7 @@ We'll do the first homework together.
 
 <!--s-->
 
-## H.01 | Submitting Homework
+## H1 | Submitting Homework
 
 You will submit your homework using the provided submission script. 
 
@@ -294,7 +294,7 @@ export AG_PASSWORD="your_password"
 ```
 <!--s-->
 
-## H.01 | Homework Grading
+## H1 | Homework Grading
 
 The highest score will be recorded, so long as it is submitted before the deadline! You have 2 attempts for every homework. 
 
@@ -302,7 +302,7 @@ Late homeworks will be penalized 10% per day.
 
 <!--s-->
 
-## H.01 | Expected Learnings / TLDR;
+## H1 | Expected Learnings / TLDR;
 
 With this <span class="code-span">hello_world</span> assignment, we worked on the following:
 
@@ -446,7 +446,7 @@ Don't collect data that you don't need. Definitely don't collect data that you d
 
 <!--s-->
 
-## L.01 | Q.02
+## L1 | Q2
 
 You're building a model to predict the price of a house based on its location, size, and number of bedrooms. Which of the following data sources would be a great first place to look?
 
@@ -462,13 +462,13 @@ You're building a model to predict the price of a house based on its location, s
 </div>
 
 <div class="c2 col-centered" style = "width: 40%;">
-<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L.01 | Q.02" width="100%" height="100%"></iframe>
+<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L1 | Q2" width="100%" height="100%"></iframe>
 </div>
 </div>
 
 <!--s-->
 
-## L.01 | Q.03
+## L1 | Q3
 
 You just built an amazing stock market forecasting model. Congrats! Now, you want to test it on real-time data. Which of the following data sources would be a great first place to look?
 
@@ -486,7 +486,7 @@ You just built an amazing stock market forecasting model. Congrats! Now, you wan
 
 <div class="c2 col-centered" style = "width: 40%;">
 
-<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L.01 | Q.03" width="100%" height="100%"></iframe>
+<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L1 | Q3" width="100%" height="100%"></iframe>
 
 </div>
 </div>
@@ -741,7 +741,7 @@ df = pd.read_sql(query, conn)
   <div class="c1 col-centered">
   <div style="font-size: 0.8em; left: 0; width: 50%; position: absolute;">
 
-  ## L.01 | Q.04
+  ## L1 | Q4
 
   
   Write a SQL query that selects the <span class = "code-span">name</span> and <span class = "code-span">year</span> columns from a <span class = "code-span">movies</span> table where the <span class = "code-span">year</span> is greater than 2000.
@@ -749,7 +749,7 @@ df = pd.read_sql(query, conn)
   </div>
   </div>
   <div class="c2 col-centered" style = "bottom: 0; right: 0; width: 80%; padding-top: 5%">
-  <iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L.01 | Q.04" width="100%" height="100%"></iframe>
+  <iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L1 | Q4" width="100%" height="100%"></iframe>
   </div>
 </div>
 
@@ -887,7 +887,7 @@ df_interpolate = df.interpolate()
 
 <!--s-->
 
-## L.01 | Q.05
+## L1 | Q5
 
 You have streaming data that is occasionally dropping values. Which of the following methods would be appropriate to fill missing values when signal fails to update? 
 
@@ -906,7 +906,7 @@ You have streaming data that is occasionally dropping values. Which of the follo
 </div>
 
 <div class="c2 col-centered" style = "width: 40%; padding-bottom: 20%">
-<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L.01 | Q.05" width="100%" height="100%"></iframe>
+<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L1 | Q5" width="100%" height="100%"></iframe>
 </div>
 </div>
 
@@ -932,7 +932,7 @@ Handling outliers should be done on a case-by-case basis. Don't throw away data 
 - Cleaning your data is an iterative process.
   - **Hot tip**: Focus on making your data preprocessing *fast*. You will be doing it a lot, and you'll want to be able to iterate quickly. Look into libraries like <span class="code-span">dask</span>, <span class="code-span">pyspark</span>, and <span class="code-span">ray</span> for large datasets.
 - Data cleaning is often planned with visualization. 
-  - Always look at the data. Always. We'll go over plotting approaches for L.03.
+  - Always look at the data. Always. We'll go over plotting approaches soon.
 - Data cleaning can fix modeling problems.
   - Your first assumption should always be "something is wrong with the data", not "I should try another model".
 - Data cleaning is not a one-size-fits-all process, and often requires domain expertise.
@@ -976,13 +976,13 @@ We can break down EDA into two main topics:
 
 ## Descriptive EDA | Describe $x$
 
-<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/cs326-bucket/lecture_3_plots/boxplot.html" title="scatter_plot" padding=2em;></iframe>
+<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/slide_assets/boxplot.html" title="scatter_plot" padding=2em;></iframe>
 
 <!--s-->
 
 ## Descriptive EDA | Describe $x$
 
-<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/cs326-bucket/lecture_3_plots/violin.html" title="scatter_plot" padding=2em;></iframe>
+<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/slide_assets/violin.html" title="scatter_plot" padding=2em;></iframe>
 
 <!--s-->
 
@@ -1067,11 +1067,11 @@ print(skew(data))
 
 ## Skewness | Plot
 
-<iframe width = "80%" height = "80%" src="https://storage.googleapis.com/cs326-bucket/lecture_3_plots/skewness.html" title="scatter_plot"></iframe>
+<iframe width = "80%" height = "80%" src="https://storage.googleapis.com/slide_assets/skewness.html" title="scatter_plot"></iframe>
 
 <!--s-->
 
-## L.01 | Q.06
+## L1 | Q6
 
 Which of the following would correctly calculate the median of the following list?
 
@@ -1106,13 +1106,13 @@ median = sorted(data)[len(data) // 2 + 1]
 </div>
 
 <div class="c2 col-centered" style = "width: 40%;">
-<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L.01 | Q.06" width="100%" height="100%"></iframe>
+<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L1 | Q6" width="100%" height="100%"></iframe>
 </div>
 </div>
 
 <!--s-->
 
-## L.01 | Q.07
+## L1 | Q7
 
 Is this distribution positively or negatively skewed?
 
@@ -1125,7 +1125,7 @@ Is this distribution positively or negatively skewed?
 </div>
 
 <div class="c2 col-centered" style = "width: 40%;">
-<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L.01 | Q.07" width="100%" height="100%"></iframe>
+<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L1 | Q7" width="100%" height="100%"></iframe>
 </div>
 
 </div>
@@ -1237,10 +1237,10 @@ How can we tell if our data is normally distributed?
 
 There are many ways to summarize data, and we have only covered a few of them. Here are some common methods that we did not cover today:
 
-- **Covariance**: A measure of the relationship between two variables (L.04).
-- **Correlation**: A normalized measure of the relationship between two variables (L.04).
-- **Outliers**: Data points that are significantly different from the rest of the data (L.02).
-- **Missing Values**: Data points that are missing from the dataset (L.02).
+- **Covariance**: A measure of the relationship between two variables.
+- **Correlation**: A normalized measure of the relationship between two variables.
+- **Outliers**: Data points that are significantly different from the rest of the data.
+- **Missing Values**: Data points that are missing from the dataset.
 - **Percentiles**: The value below which a given percentage of the data falls.
 - **Frequency**: The number of times a value occurs in the data.
 
@@ -1344,7 +1344,7 @@ fig.show()
 </div>
 <div class="c2 col-centered" style = "width: 60%; padding: 0; margin: 0;">
 
-<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/cs326-bucket/lecture_3_plots/histogram.html" title="scatter_plot" padding=2em;></iframe>
+<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/slide_assets/histogram.html" title="scatter_plot" padding=2em;></iframe>
 
 </div>
 </div>
@@ -1370,7 +1370,7 @@ fig.show()
 
 </div>
 <div class="c2 col-centered" style = "width: 60%; padding: 0; margin: 0;">
-<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/cs326-bucket/lecture_3_plots/boxplot.html" title="scatter_plot" padding=2em;></iframe>
+<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/slide_assets/boxplot.html" title="scatter_plot" padding=2em;></iframe>
 </div>
 </div>
 
@@ -1396,7 +1396,7 @@ fig.show()
 
 </div>
 <div class="c2 col-centered" style = "width: 60%; padding: 0; margin: 0;">
-<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/cs326-bucket/lecture_3_plots/violin.html" title="scatter_plot" padding=2em;></iframe>
+<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/slide_assets/violin.html" title="scatter_plot" padding=2em;></iframe>
 </div>
 </div>
 
@@ -1421,7 +1421,7 @@ fig.show()
 
 </div>
 <div class="c2 col-centered" style = "width: 60%; padding: 0; margin: 0;">
-<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/cs326-bucket/lecture_3_plots/bar.html" title="scatter_plot" padding=2em;></iframe>
+<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/slide_assets/bar.html" title="scatter_plot" padding=2em;></iframe>
 </div>
 </div>
 
@@ -1446,7 +1446,7 @@ fig.show()
 
 </div>
 <div class="c2 col-centered" style = "width: 60%; padding: 0; margin: 0;">
-<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/cs326-bucket/lecture_3_plots/pie.html" title="scatter_plot"  padding=2em;></iframe>
+<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/slide_assets/pie.html" title="scatter_plot"  padding=2em;></iframe>
 </div>
 </div>
 
@@ -1471,7 +1471,7 @@ fig.show()
 
 </div>
 <div class="c2 col-centered" style = "width: 60%; padding: 0; margin: 0;">
-<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/cs326-bucket/lecture_3_plots/scatter.html" title="scatter_plot"  padding=2em;></iframe>
+<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/slide_assets/scatter.html" title="scatter_plot"  padding=2em;></iframe>
 </div>
 </div>
 
@@ -1496,7 +1496,7 @@ fig.show()
 
 </div>
 <div class="c2" style = "width: 60%">
-<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/cs326-bucket/lecture_3_plots/heatmap.html" title="scatter_plot"  padding=2em;></iframe>
+<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/slide_assets/heatmap.html" title="scatter_plot"  padding=2em;></iframe>
 </div>
 </div>
 
@@ -1524,7 +1524,7 @@ fig.show()
 
 </div>
 <div class="c2" style = "width: 60%">
-<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/cs326-bucket/lecture_3_plots/bubble_plot.html" title="scatter_plot" padding=2em;></iframe>
+<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/slide_assets/bubble_plot.html" title="scatter_plot" padding=2em;></iframe>
 </div>
 </div>
 
@@ -1552,7 +1552,7 @@ fig.show()
 
 </div>
 <div class="c2" style = "width: 50%">
-<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/cs326-bucket/lecture_3_plots/scatter_3d.html" title="scatter_plot" padding=2em;></iframe>
+<iframe width = "100%" height = "100%" src="https://storage.googleapis.com/slide_assets/scatter_3d.html" title="scatter_plot" padding=2em;></iframe>
 </div>
 </div>
 
