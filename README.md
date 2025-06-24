@@ -18,7 +18,7 @@ This schedule is tentative and may change as the course progresses.
 | Lecture | Date | Topic | Homework Due |
 | --- | --- | --- | --- |
 | 1 | 06.23.2025 | [Overview, Data Collection & Structure, EDA](https://drc-cs.github.io/SUMMER25-CS326/lectures/L1/#/) | H1 |
-| 2 | 06.24.2025 | Correlation, Association, Simpson's Paradox, Hypothesis Testing |  |
+| 2 | 06.24.2025 | [Correlation, Association, Simpson's Paradox, Hypothesis Testing](https://drc-cs.github.io/SUMMER25-CS326/lectures/L2/#/) |  |
 | 3 | 06.25.2025 | Data Preprocessing, Supervised Machine Learning I | H2 |
 | 4 | 06.26.2025 | Supervised Machine Learning II & III |  |
 | 5 | 06.27.2025 | Docker Containers, Exam Review, Exam Part I | H3 |
