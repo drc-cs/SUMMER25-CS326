@@ -521,7 +521,7 @@ What test would you use to compare the two groups, assuming all conditions are m
 
 &emsp;A. Chi-Square Test of Independence<br>
 &emsp;B. One-Way ANOVA<br>
-&emsp;**C. T-Test (Independent)**<br>
+&emsp;C. T-Test (Independent)<br>
 &emsp;D. T-Test (Paired)<br>
 </div>
 <div class='c2 col-centered' style = 'width: 50%;'>
