@@ -49,23 +49,6 @@ revealOptions:
 
 <!--s-->
 
-<div class = "col-wrapper">
-  <div class="c1 col-centered">
-    <div style="font-size: 0.8em; left: 0; width: 60%; position: absolute;">
-
-  # Intro Poll
-  ## On a scale of 1-5, how confident are you in taking a raw dataset and transforming it into a machine learning-ready dataset?
-
-  </div>
-  </div>
-  <div class="c2" style="width: 50%; height: 100%;">
-  <iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=Intro Poll" width="100%" height="100%" style="border-radius: 10px"></iframe>
-  </div>
-
-</div>
-
-<!--s-->
-
 ## Common Data Format
 
 Often, your goal is to build a complete, numerical matrix with rows (instances) and columns (features).
@@ -973,7 +956,7 @@ What do you do next?
 </div>
 <div class="c2" style = "width: 50%">
 
-<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L7 | Q2" width="100%" height="100%" style="border-radius: 10px;"></iframe>
+<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L3 | Q5" width="100%" height="100%" style="border-radius: 10px;"></iframe>
 
 </div>
 </div>
