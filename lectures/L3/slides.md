@@ -840,7 +840,7 @@ B. When some features are assumed to be irrelevant.
 
 <div class="c2" style = "width: 50%">
 
-<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L7 | Q1" width="100%" height="100%" style="border-radius: 10px;"></iframe>
+<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L3 | Q4" width="100%" height="100%" style="border-radius: 10px;"></iframe>
 
 </div>
 
@@ -1001,7 +1001,7 @@ array([[0.3361201, 0.6638799]])
 
 </div>
 <div class="c2" style = "width: 50%">
-<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L7 | Q3" width="100%" height="100%" style="border-radius: 10px;"></iframe>
+<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L3 | Q6" width="100%" height="100%" style="border-radius: 10px;"></iframe>
 </div>
 </div>
 
