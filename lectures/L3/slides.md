@@ -59,7 +59,7 @@ revealOptions:
   </div>
   </div>
   <div class="c2" style="width: 50%; height: 100%;">
-  <iframe src="https://drc-cs-9a3f6.web.app/?label=Intro Poll" width="100%" height="100%" style="border-radius: 10px"></iframe>
+  <iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=Intro Poll" width="100%" height="100%" style="border-radius: 10px"></iframe>
   </div>
 
 </div>
@@ -383,7 +383,7 @@ You are working with a dataset that contains a feature with 100 unique categorie
 </div>
 </div>
 <div class="c2" style="width: 50%; height: 100%;">
-<iframe src="https://drc-cs-9a3f6.web.app/?label=L3 | Q1" width="100%" height="100%" style="border-radius: 10px"></iframe>
+<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L3 | Q1" width="100%" height="100%" style="border-radius: 10px"></iframe>
 </div>
 </div>
 
@@ -566,7 +566,7 @@ What is one issue you can think of with using PCA1 or PCA2 as features in a mode
 </div>
 <div class="c2 col-centered" style = "width: 40%">
 
-<iframe src="https://drc-cs-9a3f6.web.app/?label=L3 | Q2" width="100%" height="100%" style="border-radius: 10px"></iframe>
+<iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=L3 | Q2" width="100%" height="100%" style="border-radius: 10px"></iframe>
 
 </div>
 </div>
