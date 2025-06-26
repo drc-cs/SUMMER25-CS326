@@ -21,7 +21,7 @@ This schedule is tentative and may change as the course progresses.
 | 2 | 06.24.2025 | [Correlation, Association, Simpson's Paradox, Hypothesis Testing](https://drc-cs.github.io/SUMMER25-CS326/lectures/L2/#/) |  |
 | 3 | 06.25.2025 | [Data Preprocessing, Supervised Machine Learning I](https://drc-cs.github.io/SUMMER25-CS326/lectures/L3/#/) | H2 |
 | 4 | 06.26.2025 | [Supervised Machine Learning II & III](https://drc-cs.github.io/SUMMER25-CS326/lectures/L4/#/) |  |
-| 5 | 06.27.2025 | Docker Containers, Exam Review, Exam Part I |  |
+| 5 | 06.27.2025 | [Docker Containers, Exam Review, Exam Part I](https://drc-cs.github.io/SUMMER25-CS326/lectures/L5/#/) |  |
 | 6 | 06.30.2025 | Clustering Algorithms, Recommendation Modeling | H3 |
 | 7 | 07.01.2025 | Natural Language Processing |  |
 | 8 | 07.02.2025 | Time Series Analysis, Storytelling and Ethics | H4 |
