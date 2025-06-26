@@ -733,6 +733,14 @@ In this lecture, we explored two fundamental concepts in supervised machine lear
 
 <!--s-->
 
+## Exam Part I: Lockdown Browser
+
+You will be required to use the Lockdown Browser for the exam on Friday. [[Click Here to Download](https://download.respondus.com/lockdown/download7.php?id=171646780)]
+
+Make sure you know your Northwestern password, as you will need it to log in to the Lockdown Browser.
+
+<!--s-->
+
 <div class = "col-wrapper">
   <div class="c1 col-centered">
   <div style="font-size: 1em; left: 0; width: 55%; position: absolute;">
