@@ -22,10 +22,10 @@ This schedule is tentative and may change as the course progresses.
 | 3 | 06.25.2025 | [Data Preprocessing, Supervised Machine Learning I](https://drc-cs.github.io/SUMMER25-CS326/lectures/L3/#/) | H2 | [PDF](https://storage.googleapis.com/slide_assets/summer_lecture_slides/L03.pdf) |
 | 4 | 06.26.2025 | [Supervised Machine Learning II & III](https://drc-cs.github.io/SUMMER25-CS326/lectures/L4/#/) |  | [PDF](https://storage.googleapis.com/slide_assets/summer_lecture_slides/L04.pdf) |
 | 5 | 06.27.2025 | [Docker Containers, Exam Review, Exam Part I](https://drc-cs.github.io/SUMMER25-CS326/lectures/L5/#/) |  | [PDF](https://storage.googleapis.com/slide_assets/summer_lecture_slides/L05.pdf) |
-| 6 | 06.30.2025 | Clustering Algorithms, Recommendation Modeling | H3 | |
-| 7 | 07.01.2025 | Natural Language Processing |  |  |
-| 8 | 07.02.2025 | Time Series Analysis, Storytelling and Ethics | H4 |  |
-| 9 | 07.03.2025 | Exam Part II Review, Exam Part II |  |  |
+| 6 | 06.30.2025 | [Clustering Algorithms, Recommendation Modeling](https://drc-cs.github.io/SUMMER25-CS326/lectures/L6/#/) | H3 | [PDF](https://storage.googleapis.com/slide_assets/summer_lecture_slides/L06.pdf) |
+| 7 | 07.01.2025 | [Natural Language Processing](https://drc-cs.github.io/SUMMER25-CS326/lectures/L7/#/) |  | [PDF](https://storage.googleapis.com/slide_assets/summer_lecture_slides/L07.pdf) |
+| 8 | 07.02.2025 | [Time Series Analysis, Storytelling and Ethics](https://drc-cs.github.io/SUMMER25-CS326/lectures/L8/#/) | H4 | [PDF](https://storage.googleapis.com/slide_assets/summer_lecture_slides/L08.pdf) |
+| 9 | 07.03.2025 | [Exam Part II Review, Exam Part II](https://drc-cs.github.io/SUMMER25-CS326/lectures/L9/#/) |  | [PDF](https://storage.googleapis.com/slide_assets/summer_lecture_slides/L09.pdf) |
 
 ------
 
