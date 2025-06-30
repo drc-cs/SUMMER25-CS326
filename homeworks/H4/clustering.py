@@ -100,18 +100,3 @@ def local_silhouette_score(X: np.ndarray, labels: np.ndarray, metric: str) -> fl
         float: Silhouette score.
     """
     raise NotImplementedError("Please implement the local_silhouette_score function.")
-
-
-def mse(predictions: np.ndarray, test: np.ndarray) -> float:
-    """Mean Squared Error.
-
-    NOTE: You may use only numpy. Do not use any other libraries.
-
-    Args:
-        predictions (np.ndarray): Predictions.
-        test (np.ndarray): True values.
-
-    Returns:
-        float: Mean Squared Error.
-    """
-    raise NotImplementedError("Please implement the mse function.")
