@@ -495,16 +495,16 @@ tldr; the probability of the next word depends only on the current word.
 
 Let's say we have the following text:
 
-> "The quick brown fox jumps over the lazy dog."
+> "the quick brown fox jumps over the lazy dog."
 
-|  | The | quick | brown | fox | jumps | over | lazy | dog |
+|  | the | quick | brown | fox | jumps | over | lazy | dog |
 |--------------|-------|---------|---------|-------|---------|--------|--------|-------|
-| The        | 0.0   | 0.5     | 0.0     | 0.0   | 0.0     | 0.0    | 0.5    | 0.0   |
+| the        | 0.0   | 0.5     | 0.0     | 0.0   | 0.0     | 0.0    | 0.5    | 0.0   |
 | quick      | 0.0   | 0.0     | 1.0     | 0.0   | 0.0     | 0.0    | 0.0    | 0.0   |
 | brown      | 0.0   | 0.0     | 0.0     | 1.0   | 0.0     | 0.0    | 0.0    | 0.0   |
 | fox        | 0.0   | 0.0     | 0.0     | 0.0   | 1.0     | 0.0    | 0.0    | 0.0   |
 | jumps      | 0.0   | 0.0     | 0.0     | 0.0   | 0.0     | 1.0    | 0.0    | 0.0   |
-| over       | 0.0   | 0.0     | 0.0     | 0.0   | 0.0     | 0.0    | 1.0    | 0.0   |
+| over       | 1.0   | 0.0     | 0.0     | 0.0   | 0.0     | 0.0    | 0.0    | 0.0   |
 | lazy       | 0.0   | 0.0     | 0.0     | 0.0   | 0.0     | 0.0    | 0.0    | 1.0   |
 | dog        | 0.0   | 0.0     | 0.0     | 0.0   | 0.0     | 0.0    | 0.0    | 0.0   |
 
