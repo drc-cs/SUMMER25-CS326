@@ -632,7 +632,7 @@ ROUGE focuses on recall (or the number of overlapping words) in summarization.
 
 To date, we have explored traditional machine learning models and not discussed many state-of-the-art approaches. For many tasks, classical models are usually very effective and serve as steadfast baselines for nearly any data science project. However, for data science tasks involving text data (e.g., information retrieval, text summarization, question-answering, etc.) recent advances far surpass the capabilities of traditional models.
 
-So today, we will discuss a modern NLP approach called Retrieval-Augmented Generation (RAG), which combines the strengths of information retrieval (IR) systems with large language models (LLMs) to create a powerful tool for working with text data in a variety of applications. 
+So now we will discuss a modern NLP approach called Retrieval-Augmented Generation (RAG), which combines the strengths of information retrieval (IR) systems with large language models (LLMs) to create a powerful tool for working with text data in a variety of applications. 
 
 Learning RAG will also introduce longstanding concepts that are critical for modern NLP applications -- including **tokenization**, **chunking**, **embedding**, **vector storage**, **vector retrieval**, and **LLM text generation**.
 
