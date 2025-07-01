@@ -628,29 +628,6 @@ ROUGE focuses on recall (or the number of overlapping words) in summarization.
 
 <!--s-->
 
-<div class = "col-wrapper">
-  <div class="c1 col-centered">
-    <div style="font-size: 0.8em; left: 0; width: 60%; position: absolute;">
-
-  # Intro Poll
-  ## On a scale of 1-5, how confident are you with **R.A.G.** methods such as:
-
-  1. Byte Pair Encoding (Tokenization)
-  2. Document Chunking
-  3. Word Embeddings
-  4. Vector Storage & Retrieval
-  5. Text Generation with LLMs
-
-  </div>
-  </div>
-  <div class="c2" style="width: 50%; height: 100%;">
-  <iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=Intro Poll" width="100%" height="100%" style="border-radius: 10px"></iframe>
-  </div>
-
-</div>
-
-<!--s-->
-
 ## Agenda
 
 To date, we have explored traditional machine learning models and not discussed many state-of-the-art approaches. For many tasks, classical models are usually very effective and serve as steadfast baselines for nearly any data science project. However, for data science tasks involving text data (e.g., information retrieval, text summarization, question-answering, etc.) recent advances far surpass the capabilities of traditional models.
