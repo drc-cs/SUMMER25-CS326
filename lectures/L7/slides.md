@@ -54,7 +54,7 @@ revealOptions:
     <div style="font-size: 0.8em; left: 0; width: 60%; position: absolute;">
 
 # Intro Poll
-## On a scale of 1-5, how confident are you with **time series** methods such as:
+## On a scale of 1-5, how confident are you with **text** methods such as:
 
 - Regular Expressions
 - Tokenization
@@ -62,6 +62,7 @@ revealOptions:
 - Term Frequency-Inverse Document Frequency (TF-IDF)
 - Markov Chains
 - Evaluation of Text Generation Models
+- R.A.G.
 
   </div>
   </div>
@@ -1377,3 +1378,27 @@ Today we discussed Retrieval-Augmented Generation (RAG), a modern NLP approach t
 
 <!--s-->
 
+<div class = "col-wrapper">
+  <div class="c1 col-centered">
+    <div style="font-size: 0.8em; left: 0; width: 60%; position: absolute;">
+
+# Exit Poll
+## On a scale of 1-5, how confident are you with **text** methods such as:
+
+- Regular Expressions
+- Tokenization
+- Bag of Words (BoW)
+- Term Frequency-Inverse Document Frequency (TF-IDF)
+- Markov Chains
+- Evaluation of Text Generation Models
+- R.A.G.
+
+  </div>
+  </div>
+  <div class="c2" style="width: 50%; height: 100%;">
+  <iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=Exit Poll" width="100%" height="100%" style="border-radius: 10px"></iframe>
+  </div>
+
+</div>
+
+<!--s-->
