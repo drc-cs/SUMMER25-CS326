@@ -41,9 +41,17 @@ revealOptions:
 
 <!--s-->
 
+# Verbal Clarification from L6
+
+- The Wilcoxon Signed-Rank Test is a non-parametric statistical test used to compare two related samples or matched pairs. It is used when the data does not meet the assumptions of the paired t-test, such as normality.
+
+- The Wilcoxon Rank-Sum Test (also known as the Mann-Whitney U Test) is a non-parametric statistical test used to compare two independent samples. It is used when the data does not meet the assumptions of the independent t-test, such as normality.
+
+<!--s-->
+
 <div class="header-slide">
 
-# Natural Language Processing I
+# Natural Language Processing
 
 </div>
 
@@ -71,17 +79,6 @@ revealOptions:
   </div>
 
 </div>
-
-<!--s-->
-
-## Agenda
-
-1. Regular Expressions
-2. Tokenization
-3. Bag of Words (BoW)
-4. Term Frequency-Inverse Document Frequency (TF-IDF)
-5. Markov Chains
-6. Evaluation of Text Generation Models
 
 <!--s-->
 
@@ -258,12 +255,6 @@ Tokenization is the process of breaking text into smaller units, such as sub-wor
 
 <!--s-->
 
-## W.S.I.C.A.X.I.T.E.O.D.L.O.H.D.I.R.T.D.L.?
-
-Modern LLMs use a special type of tokenization called byte pair encoding (BPE). We'll talk more about byte pair encoding specifically on Thursday when we build our R.A.G. system. 
-
-<!--s-->
-
 <div class="header-slide">
 
 # Stemming and Lemmatization
@@ -302,13 +293,7 @@ Some disadvantages include increased computational complexity and slower process
 
 </div>
 
-<!--s-->
-
-## W.S.I.C.A.X.I.T.E.O.D.L.O.H.D.I.R.T.D.L.?
-
-In the era of deep learning, stemming and lemmatization are less common due to the use of word embeddings and subword tokenization. Consider the power of word embeddings and the massive problem they solved here!
-
-We'll talk more about word embeddings in the next lecture, but it's important to have an appreciation for old-school so you know what you have. :p
+</div>
 
 <!--s-->
 
@@ -325,12 +310,6 @@ We'll talk more about word embeddings in the next lecture, but it's important to
 Stop words are common words that are filtered out during text processing to reduce noise and improve performance. They are typically removed before tokenization.
 
 **Examples** include <span class="code-span">and</span> / <span class="code-span">the</span> / <span class="code-span">or</span>
-
-<!--s-->
-
-## W.S.I.C.A.X.I.T.E.O.D.L.O.H.D.I.R.T.D.L.?
-
-Attention mechanisms in transformers (presumably) learn to ignore stop words.
 
 <!--s-->
 
@@ -368,7 +347,7 @@ Stop Words Removed:
 
 ## Bag of Words (BoW)
 
-BoW represents text by counting the occurrences of each word, ignoring grammar and order. It's simple but lacks context and semantic understanding.
+BoW represents text by counting the occurrences of each word, ignoring grammar and order. It's easy to use but lacks context and semantic understanding.
 
 <img src="https://storage.googleapis.com/slide_assets/bow.png" width="100%" style="margin: 0; padding: 0; display: block; border-radius: 10px;">
 
@@ -408,14 +387,6 @@ Where:
 </div>
 
 </div>
-
-<!--s-->
-
-## W.S.I.C.A.X.I.T.E.O.D.L.O.H.D.I.R.T.D.L.?
-
-While the field of NLP has seen significant advancements with deep learning, classical models remain relevant for many tasks. These models are interpretable, computationally efficient, and require less data.
-
-In fields where data is scarce or interpretability is crucial, classical models can even be preferred. Most text tasks can be framed into two categories: **text classification** and **text generation**.
 
 <!--s-->
 
@@ -622,15 +593,15 @@ ROUGE focuses on recall (or the number of overlapping words) in summarization.
 
 <div class="header-slide">
 
-# Natural Language Processing II
+# R.A.G.
 
 </div>
 
 <!--s-->
 
-## Agenda
+## Background
 
-To date, we have explored traditional machine learning models and not discussed many state-of-the-art approaches. For many tasks, classical models are usually very effective and serve as steadfast baselines for nearly any data science project. However, for data science tasks involving text data (e.g., information retrieval, text summarization, question-answering, etc.) recent advances far surpass the capabilities of traditional models.
+In this course, we have explored traditional machine learning models and not discussed many state-of-the-art approaches. For many tasks, classical models are usually very effective and serve as steadfast baselines for nearly any data science project. However, for data science tasks involving text data (e.g., information retrieval, text summarization, question-answering, etc.) recent advances far surpass the capabilities of traditional models.
 
 So now we will discuss a modern NLP approach called Retrieval-Augmented Generation (RAG), which combines the strengths of information retrieval (IR) systems with large language models (LLMs) to create a powerful tool for working with text data in a variety of applications. 
 
