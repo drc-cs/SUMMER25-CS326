@@ -107,7 +107,7 @@ The exam is approximately 60/40 in point value between Part I and Part II and of
 
 [[slides]](https://drc-cs.github.io/SUMMER25-CS326/lectures/L1/#/)
 
-- Be able to identify structured, semi-structured, and unstructured data, as well as the advantages and disadvantages of each.
+- Be able to identify structured, semi-structured, and unstructured data.
 
 - Given a scenario with missing data, pick the appropriate method to handle it.
 
@@ -130,8 +130,6 @@ The exam is approximately 60/40 in point value between Part I and Part II and of
 - Understand central tendency (mean, median, mode) and spread (range, variance, standard deviation).
 
 - Identify skew (positive, negative).
-
-- Identify kurtosis (leptokurtic, mesokurtic, platykurtic).
 
 - Know key properties of a normal distribution.
 
@@ -156,7 +154,7 @@ The exam is approximately 60/40 in point value between Part I and Part II and of
 [[slides]](https://drc-cs.github.io/SUMMER25-CS326/lectures/L2/#/)
 [[homework]](https://github.com/drc-cs/SUMMER25-CS326/tree/main/homeworks/H2)
 
-- Construct an A/B Test to test a hypothesis.
+- Understand A/B Tests.
 
 - Define hypothesis testing for a scenario in terms of $H_0$ and $H_1$.
 
@@ -176,7 +174,7 @@ The exam is approximately 60/40 in point value between Part I and Part II and of
 
 - Define and be able to identify data that has been scaled and the method used to scale it (min-max, standard).
 
-- Describe the curse of dimensionality and how it affects machine learning models.
+- Understand the curse of dimensionality and how it affects machine learning models.
 
 - Understand dimensionality reduction techniques (Feature Selection, Feature Sampling, or PCA).
 
@@ -186,17 +184,15 @@ The exam is approximately 60/40 in point value between Part I and Part II and of
 
 [[slides]](https://drc-cs.github.io/SUMMER25-CS326/lectures/L3/#/)
 
-- Define the terms: training set, validation set, and test set and their primary uses.
+- Define the terms: training set, validation set, and test set and their primary uses. Know sources of data leakage.
 
 - Identify a scenario as a classification or regression problem.
 
-- Explain the KNN algorithm and how it works.
+- Understand the KNN algorithm and how it works.
 
-- Explain where the normal equation for linear regression comes from.
+- Know where the normal equation for linear regression comes from.
 
 - Be able to identify L1 and L2 regularization and explain at a high level how they work.
-
-- Understand the intuition behind the cross-entropy loss function.
 
 <!--s-->
 
@@ -205,6 +201,8 @@ The exam is approximately 60/40 in point value between Part I and Part II and of
 [[homework]](https://github.com/drc-cs/SUMMER25-CS326/tree/main/homeworks/H3)
 
 - Be able to look at code for logistic regression gradient descent and identify missing or incorrect components.
+
+- Recognize the logistic regression function and range of outputs. 
 
 - Provided with a **simple** numpy operation, identify the shape of the output. This may include an axis argument. [[🔗]](https://numpy.org/doc/stable/user/basics.broadcasting.html)
 
@@ -226,7 +224,7 @@ The exam is approximately 60/40 in point value between Part I and Part II and of
 
 [[slides]](https://drc-cs.github.io/SUMMER25-CS326/lectures/L4/#/)
 
-- Explain the ID3 algorithm and how it works (understand entropy & information gain).
+- Know the ID3 algorithm and how it works (understand entropy & information gain).
 
 - Be able to identify a decision tree model as overfitting or underfitting.
 
@@ -244,9 +242,7 @@ The exam is approximately 60/40 in point value between Part I and Part II and of
 
 - Understand agglomerative (bottom-up) clustering, and be able to identify different linkage patterns.
 
-- Understand the difference between hierarchical and partitioning clustering.
-
-- Describe DBScan in the context of $\epsilon$ and $\text(m)$.
+- Understand DBScan in the context of $\epsilon$ and $\text(m)$.
 
 <!--s-->
 
@@ -266,6 +262,8 @@ The exam is approximately 60/40 in point value between Part I and Part II and of
 # Natural Language Processing I
 
 [[slides]](https://drc-cs.github.io/SUMMER25-CS326/lectures/L7/#/)
+
+- Know stemming, lemmatization, and stop words.
 
 - Explain TF-IDF and how it is used in text analysis.
 
@@ -295,7 +293,7 @@ The exam is approximately 60/40 in point value between Part I and Part II and of
 
 - Identify additive vs multiplicative decomposition in time series data.
 
-- Know the value of differencing in time series data (i.e. what does it do, why is that important, and how do we evaluate the number of differences).
+- Know the value of differencing in time series data (i.e. what does it do, why is that important, and how do we evaluate the number of differences required).
 
 - Look at ACF / PACF plots and determine what order of AR or MA to use in an ARIMA model.
 
