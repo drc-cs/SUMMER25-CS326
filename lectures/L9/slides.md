@@ -68,6 +68,23 @@ revealOptions:
 
 <!--s-->
 
+<div class = "col-wrapper">
+  <div class="c1 col-centered">
+    <div style="font-size: 0.8em; left: 0; width: 60%; position: absolute;">
+
+  # Intro Poll
+  ## On a scale of 1-5, how confident are you feeling about Exam Part II?
+
+  </div>
+  </div>
+  <div class="c2" style="width: 50%; height: 100%;">
+  <iframe src="https://drc-cs-9a3f6.firebaseapp.com/?label=Intro Poll" width="100%" height="100%" style="border-radius: 10px"></iframe>
+  </div>
+
+</div>
+
+<!--s-->
+
 <div class="header-slide">
 
 # Exam Part II Review
@@ -82,9 +99,8 @@ You will **not** be expected to do any programming on the exam. You will be aske
 
 The following topics will likely be covered on the exam -- they are not exhaustive but should give you a good idea of what to expect. Anything talked about in lecture or on your homework is fair game. 
 
-The exam is approximately 60/40 in point value between Part I and Part II and of the course. There are ~ 50 questions written as of today.
+The exam is approximately 60/40 in point value between Part I and Part II and of the course.
 
-<!--s-->
 <!--s-->
 
 # Data Sources
